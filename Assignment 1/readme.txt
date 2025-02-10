@@ -2,10 +2,11 @@ Assignment 1 for CS 698 Deep Learning For Computer Vision
 
 HF Repo for generated dataset: https://huggingface.co/datasets/JohnVitz/DL_for_CV_Assignment_1
 
-Assignment file .py: dl_for_cv_assignment_1_final.py
-Assignment file .ipynb: DL_for_CV_Assignment_1_Final.ipynb
+Assignment file .py: dl_for_cv_assignment_1_final_revised.py
+Assignment file .ipynb: DL_for_CV_Assignment_1_Final_Revised.ipynb
 
-I had problems with the .ipynb file being either very large due to (I'm assuming) FiftyOne's session causing me to go over 25 mb for the notebook size.
+I had problems with the .ipynb file being very large due to (I'm assuming) FiftyOne's session loading picture previews for all of the images causing me to go over 25 mb for the notebook size. 
+After reducing the size a bit, I utilized the "Save a Copy in Github" Feature with Colab, and realized that moving ipynb files to different directories as well as renaming them in github causes an nbconvert error in Github itself, which means that it doesn't show any results.
 
 Colab Notebook Link (editor perms): https://colab.research.google.com/drive/1qzQQYsXKvfYrX6ib2o5EKl6oGrADfJKR?usp=sharing
 
