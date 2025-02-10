@@ -4,3 +4,7 @@ HF Repo for generated dataset: https://huggingface.co/datasets/JohnVitz/DL_for_C
 
 Assignment file .py: dl_for_cv_assignment_1_final.py
 Assignment file .ipynb: DL_for_CV_Assignment_1_Final.ipynb
+
+I had problems with the .ipynb file being either very large due to (I'm assuming) FiftyOne's session causing me to go over 25 mb for the notebook size.
+
+Colab Notebook Link (editor perms): https://colab.research.google.com/drive/1qzQQYsXKvfYrX6ib2o5EKl6oGrADfJKR?usp=sharing
